@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'FuturaBold';
+  src: url(./fonts/FuturaBoldBT.ttf) format('truetype');
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: 'FuturaBold';
+  src: url(./fonts/FuturaMediumBT.ttf) format('truetype');
+  font-style: normal;
+  font-weight: 500;
+
+}
+@font-face {
+  font-family: 'AmsiPro';
+  src: url(./fonts/AmsiPro-Bold.otf) format('opentype');
+  font-style: normal;
+  font-weight: 700;
+
+}
+@font-face {
+  font-family: 'AmsiPro';
+  src: url(./fonts/AmsiPro-Light.otf) format('opentype');
+  font-style: normal;
+  font-weight: 200;
+
+}
